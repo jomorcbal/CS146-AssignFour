@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
+<<<<<<< HEAD
   productGUID: 52ef2c54b6a522147b39c04b1a56c7ae
+=======
+  productGUID: 9df00ae172e6f41309fc2e8f62d45920
+>>>>>>> f8a7920eb5e0b6e289b92c14865753b4d42c4704
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -619,9 +623,15 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
+<<<<<<< HEAD
   cloudProjectId: 7da8d348-91a0-4d91-bb06-d938d8fff0e1
   projectName: CS146-AssignFour
   organizationId: jomorcbal
+=======
+  cloudProjectId: 1e3b1678-bd97-4008-bb37-1798332fe130
+  projectName: CS146-AssignFour (1)
+  organizationId: hleou
+>>>>>>> f8a7920eb5e0b6e289b92c14865753b4d42c4704
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
